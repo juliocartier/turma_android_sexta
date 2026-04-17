@@ -69,7 +69,7 @@ A entrega deve ser realizada através do link do repositório no GitHub. O arqui
 
 2. Descrição do problema social escolhido.
 
-3. Instruções básicas para rodar o projeto.
+3. Instruções básicas para rodar o projeto.  
 **Qtd de Membros: 1 ou até 4 membros.**  
 **Data Limite: 04 de Junho de 2026 às 23:59 no horário de brasilia.**  
 **Enviar para: juliocartier@gmail.com**  
