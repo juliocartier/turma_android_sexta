@@ -72,6 +72,6 @@ A entrega deve ser realizada através do link do repositório no GitHub. O arqui
 3. Instruções básicas para rodar o projeto.  
 **Qtd de Membros: 1 ou até 4 membros.**  
 **Data Limite: 04 de Junho de 2026 às 23:59 no horário de brasilia.**  
-**Enviar para: juliocartier@gmail.com**  
+**Enviar pelo SAVA.**  
 **Apresentação do projeto: 05 e 12 de Junho de 2026**  
 **Obs: Entregas a partir do dia 05 de Junho às 00:00 no horário de Brasília sofrerão penalidade de 1,0 ponto a cada dia de atraso.**
